@@ -1,5 +1,6 @@
 # Exclude test data
 /data
+/detr-resnet-50
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
