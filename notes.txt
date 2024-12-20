@@ -1,0 +1,2 @@
+# run this to mount the drive locally
+rclone mount --drive-shared-with-me gdrive:7\ Train\ Photos/ ./drive2/
